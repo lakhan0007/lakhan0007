@@ -1,3 +1,4 @@
+![logo](https://github.com/lakhan0007/lakhan0007/blob/main/ani.png)
 <h1 align="center">Hi 👋, I'm Lakhan Singh Rathore</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
