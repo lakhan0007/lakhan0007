@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan0007&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan0007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhan0007" alt="lakhan0007" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lakhans32785896" target="blank"><img src="https://img.shields.io/twitter/follow/lakhans32785896?logo=twitter&style=for-the-badge" alt="lakhans32785896" /></a> </p>
-
 - 📫 How to reach me **lakhansinghrathore2001@gmail.com**
 
 - ⚡ Fun fact **I am funny 😎😎**
