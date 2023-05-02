@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 👨‍💻 All of my projects are available at [https://lakhansingh-git-master-lakhan0007.vercel.app/](https://lakhansingh-git-master-lakhan0007.vercel.app/)
 
 - 📫 How to reach me **lakhansinghrathore2001@gmail.com**
