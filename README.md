@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 My PORTFOLIO :- [https://lakhan.one](https://lakhan.one)
+- 👨‍💻 MY PORTFOLIO :- [https://lakhan.one](https://lakhan.one)
 
 - 📫 How to reach me **lakhansinghrathore2001@gmail.com**
 
