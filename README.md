@@ -8,7 +8,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently Working **<a href="https://a2groups.org/"> A2groups</a>  **
 
 - 👨‍💻 MY PORTFOLIO :- [https://lakhan.one](https://lakhan.one)
 
