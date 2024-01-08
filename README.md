@@ -8,7 +8,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🌱 I’m currently Working **<a href="https://a2groups.org/"> A2groups</a>  **
+- 🌱 I’m currently Working **<a href="https://a2groups.org/" target="_blank"> A2groups</a>  **
 
 - 👨‍💻 MY PORTFOLIO :- [https://lakhan.one](https://lakhan.one)
 
